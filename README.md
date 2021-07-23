@@ -12,7 +12,9 @@ It is designed for demoing Azure Arc for Kubernetes GitOps flow included in the 
 
 ## Credit
 
-This repository and the "Hello Arc" application in it were forked from the great work done by Paul Bouwer as part of his ["Hello Kubernetes" GitHub repository](https://github.com/paulbouwer/hello-kubernetes) and all credits for the building blocks goes to him. 
+This repository and the "Hello Arc" application in it were forked from ["Hello Arc" Github Repository] (https://github.com/thomasmaurer/hello_arc)
+
+That repository and the "Hello Arc" application in it were forked from the great work done by Paul Bouwer as part of his ["Hello Kubernetes" GitHub repository](https://github.com/paulbouwer/hello-kubernetes) and all credits for the building blocks goes to him. 
 
 Please refer to the repository for detailed instructions on how to build your on Docker image and deploy it. 
 
